@@ -6,10 +6,11 @@
 Python 3.10.2
 ```
 
-#Frameworks
+#Frameworks y Dependencias
 ```sh
 Django 4.0.2
 Djangorestframework 3.13.1
+Pandas 1.4.0
 ```
 
 ## Instalación
