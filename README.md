@@ -35,7 +35,7 @@ py -m venv <nombre_entorno>
 4. Instalar las dependencias
 
 ```sh
-pip install -r requirents.txt
+pip install -r requirements.txt
 ```
 
 5. Correr el proyecto:
